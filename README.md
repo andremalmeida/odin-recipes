@@ -1,7 +1,5 @@
 # odin-recipes
 
-This project 
-
 ## Image Credits
 All images used in this project are free to use for educational purposes.  
 They were obtained from sources that provide Creative Commons or Public Domain (CC0) licensed content.
